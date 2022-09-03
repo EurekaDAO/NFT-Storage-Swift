@@ -11,37 +11,30 @@
   <a href="https://twitter.com/nft_storage"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nft_storage?color=00aced&label=twitter&logo=twitter&style=for-the-badge"></a>
 </p>
 
-# Table of Contents <!-- omit in toc -->
+## Table of Contents <!-- omit in toc -->
 
 - [Overview](#overview)
 - [HTTP API](#http-api)
 - [Examples](#examples)
-- [Development](#development)
 - [Contributing](#contributing)
 - [License](#license)
 
-# Overview
+## Overview
 
 This Swift package is a community-driven library allowing you to interact with NFT.Storage.
 
-# HTTP API
+## HTTP API
 
 Check out the [HTTP API documentation](https://nft.storage/api-docs).
 
-# Examples
+## Examples
 
 Coming Soon!
 
-# Development
+## Contributing
 
-Instructions for setting up a development environment can be found in [DEVELOPMENT.md](./DEVELOPMENT.md). Please [let us know](https://github.com/nftstorage/nft.storage/issues) if anything is missing.
+Feel free to join in. All welcome. [Open an issue](https://github.com/EurekaDAO/NFT-Storage-Swift/issues)!
 
-# Contributing
-
-Feel free to join in. All welcome. [Open an issue](https://github.com/nftstorage/nft.storage/issues)!
-
-If you're opening a pull request, please see the [guidelines in DEVELOPMENT.md](./DEVELOPMENT.md#how-should-i-write-my-commits) on structuring your commit messages so that your PR will be compatible with our [release process](./DEVELOPMENT.md#release).
-
-# License
+## License
 
 Licensed under the [MIT](https://github.com/nftstorage/nft.storage/blob/main/LICENSE.md) license.
