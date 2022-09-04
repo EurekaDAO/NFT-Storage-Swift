@@ -37,4 +37,4 @@ Feel free to join in. All welcome. [Open an issue](https://github.com/EurekaDAO/
 
 ## License
 
-Licensed under the [MIT](https://github.com/nftstorage/nft.storage/blob/main/LICENSE.md) license.
+Licensed under the [MIT](./LICENSE) license.
